@@ -1,17 +1,18 @@
-#EXTM3U
-#EXTINF:-1,GoRo List
-http://whatever.ts
-#EXTINF:-1,SS1
-http://84.22.37.84:85/live/oCoARc7RD6/ADSt8yTP3T/7.ts
-#EXTINF:-1,SS2
-http://84.22.37.84:85/live/oCoARc7RD6/ADSt8yTP3T/5.ts
-#EXTINF:-1,SS3
-http://84.22.37.84:85/live/oCoARc7RD6/ADSt8yTP3T/6.ts
-#EXTINF:-1,SS4
-http://84.22.37.84:85/live/oCoARc7RD6/ADSt8yTP3T/8.ts
-#EXTINF:-1,VOX
-http://84.22.37.84:85/live/oCoARc7RD6/ADSt8yTP3T/16.ts
-#EXTINF:-1,RTK
-http://84.22.37.84:85/live/oCoARc7RD6/ADSt8yTP3T/9.ts
-#EXTINF:-1,Alsat M
-http://84.22.37.84:85/live/oCoARc7RD6/ADSt8yTP3T/12.ts
+#EXTINF:-1,Super Sport 3
+http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/12.ts
+#EXTINF:-1,Super Sport 2
+http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/11.ts
+#EXTINF:-1,Super Sport 1
+http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/10.ts
+#EXTINF:-1,Super Sport 7
+http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/16.ts
+#EXTINF:-1,Super Sport 6
+http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/15.ts
+#EXTINF:-1,Super Sport 5
+http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/14.ts
+#EXTINF:-1,Super Sport 4
+http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/13.ts
+#EXTINF:-1,SS Kosova 2
+http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/9.ts
+#EXTINF:-1,SS Kosova 1
+http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/8.ts
