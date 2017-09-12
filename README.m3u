@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,GoRo List
+http://whatever.ts
 #EXTINF:-1,SS1
 http://84.22.37.84:85/live/oCoARc7RD6/ADSt8yTP3T/7.ts
 #EXTINF:-1,SS2
