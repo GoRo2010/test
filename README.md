@@ -1,1 +1,15 @@
-# test
+#EXTM3U
+#EXTINF:-1,SS1
+http://84.22.37.84:85/live/oCoARc7RD6/ADSt8yTP3T/7.ts
+#EXTINF:-1,SS2
+http://84.22.37.84:85/live/oCoARc7RD6/ADSt8yTP3T/5.ts
+#EXTINF:-1,SS3
+http://84.22.37.84:85/live/oCoARc7RD6/ADSt8yTP3T/6.ts
+#EXTINF:-1,SS4
+http://84.22.37.84:85/live/oCoARc7RD6/ADSt8yTP3T/8.ts
+#EXTINF:-1,VOX
+http://84.22.37.84:85/live/oCoARc7RD6/ADSt8yTP3T/16.ts
+#EXTINF:-1,RTK
+http://84.22.37.84:85/live/oCoARc7RD6/ADSt8yTP3T/9.ts
+#EXTINF:-1,Alsat M
+http://84.22.37.84:85/live/oCoARc7RD6/ADSt8yTP3T/12.ts
